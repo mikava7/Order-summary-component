@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img src='orderSummary.png'/>
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/mikava7/Order-summary-component))
+- Live Site URL: [Live](https://your-live-site-url.com)
 
 ## My process
 
