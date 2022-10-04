@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: hsl(225, 100%, 94%) url(/images/pattern-background-desktop.svg)
+  background: hsl(225, 100%, 94%) url(images/pattern-background-desktop.svg)
     no-repeat;
   background-size: contain;
 }
