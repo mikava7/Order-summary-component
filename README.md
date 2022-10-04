@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/mikava7/Order-summary-component))
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/mikava7/Order-summary-component)
+- Live Site URL: [Live](https://mikava7.github.io/Order-summary-component/)
 
 ## My process
 
