@@ -32,7 +32,6 @@ body {
 .main-body {
   display: flex;
   flex-direction: column;
-  background-color:red;
 }
 .main-body h1 {
   font-style: normal;
