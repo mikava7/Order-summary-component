@@ -17,7 +17,7 @@ body {
   background-size: contain;
 }
 
-/* main container, card */
+
 .container {
   width: 450px;
   background-color: hsla(0, 0%, 100%, 1);
@@ -25,7 +25,8 @@ body {
   border-radius: 20px;
 }
 .container img {
-  max-width: 100%;
+/*   max-width: 100%; */
+  width: 430px;
   border-radius: 20px 20px 0 0;
 }
 
